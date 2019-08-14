@@ -3,13 +3,17 @@ Still waters run deep, that's why we need to visualize Wikipedia article contest
 
 ## Why?
 
-Visualisation is to give people overview of what happened during article contest or editathon and present it in an appealing way. This is also to present the contest for media in press releases.
+Visualisation is to give people overview of what happened during article contest or editathon and present it in an appealing way. This is also to present the contest for media in press releases. So not exactly metrics, but more a tailored insight into the event in data story style.
 
-## Project status?
+## Project status
 
-Started to write clean code during [Wikimedia Hackathon 2019 in Prague](https://phabricator.wikimedia.org/T216260).
+Started to write clean code during [Wikimedia Hackathon 2019 in Prague](https://phabricator.wikimedia.org/T216260). The dirty code was written to visualise results of [EV100 anniversary contest](https://ev100.miljonpluss.ut.ee/).
 
-## Task 1
+Phabricator task for Wikimania 2019 hackathon: https://phabricator.wikimedia.org/T230464
+
+## TODO
+
+## Gather and structure useful data
 
 Gather data from Wikimedia API on users, articles and everything that might be interesting to present. [Dirty code from 2018](https://gist.github.com/boamaod/2e2ad993059d10ee42b8ca43fc0c7f41) and some ideas:
 
@@ -50,6 +54,6 @@ Gather data from Wikimedia API on users, articles and everything that might be i
   - for participant
   - by participant
 
-## Task 2
+### Visualise it in customisable manner
 
 Visualise the data using any of the common visualisation framworks. See [test visualisation in D3](https://ottmartens.github.io/Wiki-visuals-v2/).
