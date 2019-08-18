@@ -9,7 +9,9 @@ Visualisation is to give people overview of what happened during article contest
 
 Started to write clean code during [Wikimedia Hackathon 2019 in Prague](https://phabricator.wikimedia.org/T216260). The dirty code was written to visualise results of [EV100 anniversary contest](https://ev100.miljonpluss.ut.ee/).
 
-Phabricator task for Wikimania 2019 hackathon: https://phabricator.wikimedia.org/T230464
+* Phabricator task for Wikimania 2019 hackathon: https://phabricator.wikimedia.org/T230464
+* Example input data: https://infoaed.ee/vagavesi/data.json
+* Example visualisation: https://infoaed.ee/vagavesi
 
 ## TODO
 
