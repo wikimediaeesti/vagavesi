@@ -12,6 +12,7 @@ Started to write clean code during [Wikimedia Hackathon 2019 in Prague](https://
 * Phabricator task for Wikimania 2019 hackathon: https://phabricator.wikimedia.org/T230464
 * Example input data: https://infoaed.ee/vagavesi/data.json
 * Example visualisation: https://infoaed.ee/vagavesi
+* Wikimandia hackathon showcase presentation: https://youtu.be/SomTEzaoROQ?t=2440
 
 ## TODO
 
